@@ -1,0 +1,21 @@
+Tabelas utilizadas no Asstermo - Assistente de Termodinâmica: http://code.google.com/p/asstermo/
+
+Os dados presentes nestas tabelas foram extraídos do livro "Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro".
+A utilização e validação destas tabelas requer a posse deste mesmo livro.
+
+Não me responsabilizo por erros no processo de digitalização dos dados, nem pela validade dos dados.
+Alguns valores foram corrigidos, estando esses listados nesta página: http://code.google.com/p/asstermo/wiki/CorreccoesTabelas
+
+Nesta pasta estão os ficheiros processados em ".XLS" e os correspondentes ficheiros em formato ".89m".
+
+
+SPECIAL NOTE to the book's publisher and authors:
+  I don't want to infringe the law, this is why I've tried my best to promote to the users
+to purchase the book before using the Asstermo software for their calculators. I know you guys
+are very busy and this is one of the reasons I haven't bothered you questioning and requesting
+for special permissions for using the book's tables.
+  Additionally, after various days of research, I was unable to figure out the laws that legislate
+the usage of data tables from books into software.
+
+Best regards,
+Bruno Santos

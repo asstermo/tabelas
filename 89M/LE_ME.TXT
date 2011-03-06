@@ -1,0 +1,2 @@
+
+NOTA: os ficheiros com extensão ".89L" são listas dos limites das tabelas de vapor para ser mais fácil a geração dos diagramas psicrométricos.
