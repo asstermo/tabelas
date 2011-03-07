@@ -2,6 +2,7 @@ Tabelas utilizadas no Asstermo - Assistente de Termodinâmica: http://code.google
 
 Os dados presentes nestas tabelas foram extraídos do livro "Fundamentals of Engineering Thermodynamics, by Michael J. Moran and Howard N. Shapiro".
 A utilização e validação destas tabelas requer a posse deste mesmo livro.
+Outra fonte destas tabelas para estudantes: http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=5210&itemId=0470540192&resourceId=18046
 
 Não me responsabilizo por erros no processo de digitalização dos dados, nem pela validade dos dados.
 Alguns valores foram corrigidos, estando esses listados nesta página: http://code.google.com/p/asstermo/wiki/CorreccoesTabelas
@@ -16,6 +17,8 @@ are very busy and this is one of the reasons I haven't bothered you questioning 
 for special permissions for using the book's tables.
   Additionally, after various days of research, I was unable to figure out the laws that legislate
 the usage of data tables from books into software.
+  In fact, since it's provided directly by the Wiley publisher at http://bcs.wiley.com/he-bcs/Books?action=resource&bcsId=5210&itemId=0470540192&resourceId=18046
+then I hope that it's not too much trouble that the data is also in calculator format!
 
 Best regards,
 Bruno Santos
